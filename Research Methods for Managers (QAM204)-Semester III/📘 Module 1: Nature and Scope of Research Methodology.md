@@ -7,7 +7,7 @@
 ### ✅ **Definition of Research:**
 
 **Technical explanation:**
-Research is a **systematic(পদ্ধতিগত / সিস্টেম্যাটিক)** and **scientific(বৈজ্ঞানিক / সায়েন্টিফিক)** process of collecting, analyzing, and interpreting information to answer a question or solve a problem.
+Research is a **systematic(পদ্ধতিগত / সিস্টেম্যাটিক)** and **scientific(বৈজ্ঞানিক / সায়েন্টিফিক)** process of Collecting (সংগ্রহ করা / কলোক্তিং),Analyzing (বিশ্লেষণ করা / অ্যানালাইজিং),Interpreting (ব্যাখ্যা করা / ইন্টারপ্রেটিং) information to answer a question or solve a problem.
 
 **Layman’s explanation:**
 Research means **finding out something new** in an organized way. Just like when you don't know the answer to a question and you search it on Google, in business we also try to find answers — like "Why are sales going down?" or "What do customers want?"
@@ -19,7 +19,7 @@ Imagine you have a small food delivery business. You notice people are ordering 
 
 ### ✅ **Objectives of Research (Why do we do research?):**
 
-1. **To gain familiarity(পরিচিতি / ফ্যামিলিয়ারিটি)** with a phenomenon or problem.
+1. **To gain familiarity(পরিচিতি / ফ্যামিলিয়ারিটি)** with a Phenomenon (ঘটনা / ফেনোমেনন) or problem.
    🔹 *Layman: To understand something new.*
    🔹 *Example: A new company wants to know how people shop online in rural areas.*
 
@@ -76,9 +76,10 @@ Let’s break down the **main features (বৈশিষ্ট্য / ফিচ�
 
 ### ✅ **Technical Explanation:**
 
-* **Research Methods** are the specific **tools (সরঞ্জাম / টুলস)** and **techniques (পদ্ধতি / টেকনিক্স)** used to conduct research — like surveys, interviews, experiments, observations, etc.
+* **Research Methods** are the specific **tools (সরঞ্জাম / টুলস)** and **techniques (পদ্ধতি / টেকনিক্স)** used to conduct research — like Surveys (সার্ভে / সার্ভে), Interviews (সাক্ষাৎকার / ইন্টারভিউ), Experiments (পরীক্ষা / এক্সপেরিমেন্ট), Observations (পর্যবেক্ষণ / অবজারভেশন), etc((এট সেতেরা/ ইত্যাদি).
 
-* **Research Methodology** is the **overall approach (পন্থা / অ্যাপ্রোচ)** — the logic and reasoning behind choosing a certain method. It explains *why* and *how* a method is selected and used.
+* **Research Methodology** is the **overall approach (পন্থা / অ্যাপ্রোচ)** — the Logic and Reasoning Behind (যুক্তি এবং কারণ / লজিক অ্যান্ড রিজনিং বিহাইন্ড)
+ choosing a certain method. It explains *why* and *how* a method is selected and used.
 
 > **Shortcut:**
 >
